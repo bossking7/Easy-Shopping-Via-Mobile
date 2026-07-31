@@ -46,7 +46,7 @@ Este projeto foi desenvolvido para praticar:
 **Edgar Henrique**
 
 - GitHub: https://github.com/bossking7
-- LinkedIn: *(adicione o link do seu perfil)*
+- LinkedIn: *https://www.linkedin.com/in/edgarhprestes/*
 
 ---
 
