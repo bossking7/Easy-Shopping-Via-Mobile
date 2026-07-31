@@ -7,7 +7,7 @@ Uma landing page responsiva desenvolvida durante meus estudos de **HTML** e **CS
 <p align="center">
   <img src="https://github.com/bossking7/Easy-Shopping-Via-Mobile/blob/main/img/preview.png?raw=true" alt="Preview do projeto" width="200">
 
-  <img src="preview.png.1" alt="Preview do projeto" width="200">
+  <img src="img/preview.png.1" alt="Preview do projeto" width="800">
 </p>
 
 ## 🚀 Tecnologias
